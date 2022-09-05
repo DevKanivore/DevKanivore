@@ -18,6 +18,6 @@
  <img align= "center" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt= "CSS3"/>
  <img align= "center" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "JavaScript"/>
   
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif) 
+ ![snake gif](https://github.com/DevKanivore/DevKanivore/blob/output/github-contribution-grid-snake.gif) 
  
 </div>
