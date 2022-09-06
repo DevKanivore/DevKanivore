@@ -20,5 +20,7 @@
  
 </div>
 <br>
- ![snake gif](https://github.com/DevKanivore/DevKanivore/blob/output/github-contribution-grid-snake.gif) 
- 
+
+<div>
+  ![snake gif](https://github.com/DevKanivore/DevKanivore/blob/output/github-contribution-grid-snake.gif) 
+ </div>
